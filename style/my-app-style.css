@@ -1,0 +1,39 @@
+html, body, #map {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#whereIsThis {
+    top: 10px;
+    right: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    padding: 4px;
+    background-color: rgba(255,255,255,1);
+    border-radius: 4px;
+    width: 8.%;
+}
+.floater {
+    position: absolute;
+    z-index: 999;
+}
+#ME {
+    bottom: 9px;
+    left: 1px;
+    font-size: 12px;
+    font-weight: 150;
+    padding: 3px;
+    border-radius: 1px;
+    width: 8.%;  
+}
+#title{
+    color:blue;
+    top: 1px;
+    right: 700px;
+    font-size: 36px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: rgba(155,155,155,0.7);
+    border-radius: 99px;
+    width: 28.4%;   
+}
